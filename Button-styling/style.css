@@ -1,0 +1,33 @@
+.search, .plus, .create{
+    display: block;
+    margin-bottom :10px;
+    margin-left:30px;
+    height:40px;
+}
+
+.search {
+    color: turquoise;
+    width: 150px;
+    margin:30px;
+    border-radius:30px;
+    border:2px solid turquoise;
+    font-weight:900;
+}
+
+.plus {
+    border-radius:50px;
+    width:40px;
+    border:none;
+    background-color:turquoise;
+    color:white;
+    font-weight:800;
+}
+
+.create {
+    box-shadow: 3px 3px black;
+    background-color:royalblue;
+    color:white;
+    padding:0px 30px;
+    border:3px solid black;
+}
+
